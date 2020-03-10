@@ -54,7 +54,7 @@
             "visible": true
         }
     ],
-    "origin": 0,
+    "origin": 9,
     "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
@@ -65,6 +65,6 @@
     "textureGroupId": "1506f5cc-ff1a-4025-b89c-d1658b7cecd0",
     "type": 0,
     "width": 832,
-    "xorig": 0,
-    "yorig": 0
+    "xorig": 389,
+    "yorig": 49
 }

@@ -1,2 +1,2 @@
 movementSpeed = objScrollingWallYAxis.movementSpeed;
-y = objPlayer.y -130;
+y = objPlayer.y -80;
